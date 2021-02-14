@@ -3,7 +3,6 @@
 # Python环境
 - python3.4+
 - encoding:utf-8
-\# 
 # 使用包:
 - asyncio
 - aiohttp
