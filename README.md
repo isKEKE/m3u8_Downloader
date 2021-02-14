@@ -1,4 +1,5 @@
 # M3u8_Downloader
+- The fool's downloader.
 # Python环境
 - python3.4+
 - encoding:utf-8
