@@ -13,7 +13,10 @@
 - random
 - os
 - time
+- shelve
+- crypto
+- sys
 # 运行文件
-- `.\\fn\\utils.py`
+- `main.py`
 # 作者
 - 下载器目前不支持有key加密(珂珂:谁有这种网址可以发给我，我去研究研究)
